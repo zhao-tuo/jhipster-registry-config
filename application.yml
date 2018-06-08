@@ -5,7 +5,7 @@
 # Property used on app startup to check the config server status
 spring:
     application:
-        name: jhipster-registry-git
+        name: jhipster-registry-gitt
 configserver:
     name: JHipster Registry config server
     status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config !
